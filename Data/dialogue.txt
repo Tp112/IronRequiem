@@ -1,0 +1,16 @@
+[Scene 1: Entering the Ruins]
+
+Player: "These ruins... this silence... It wasn’t supposed to be like this."
+Tutorial: "Move with W, A, S, D. Jump with SPACE."
+Player: "I need to find out what happened here — and fast."
+
+[Scene 1: Environmental Obstacle]
+
+Player: "The ground’s unstable... must be remnants of collapsed infrastructure."
+Tutorial: "Maybe a jump-crouch combo (SPACE + S) will get us through this."
+
+[Scene 3: Low Orbit Conflict]
+Player: "Things just escalated."
+Tutorial: "Press K for a close-range strike, O to fire your weapon."
+Player: "That wall? Definitely hiding something."
+"""
