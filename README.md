@@ -10,7 +10,7 @@ Iron Requiem is a 2D side-scrolling action game set in a dystopian cyberpunk wor
 
 ## 🧠 Features
 - Souls-like combat
-- Unique Boss: forest ruins, nuked cities, low-gravity space
+- Unique Boss
 
 ## 📂 Data Files
 All related data is in the `/Data/` folder:
