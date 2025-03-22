@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Chomper",
+      "hp": 7,
+      "invulnerableAfterHit": true,
+      "invulnerabilityDuration": 2,
+      "role": "Standard Melee"
+    },
+    {
+      "name": "Spitter",
+      "hp": 5,
+      "invulnerableAfterHit": true,
+      "invulnerabilityDuration": 2,
+      "role": "Ranged Attacker"
+    },
+    {
+      "name": "GunnerShield",
+      "hp": 9,
+      "invulnerableAfterHit": true,
+      "invulnerabilityDuration": 3,
+      "role": "Heavy Shielded Enemy"
+    },
+    {
+      "name": "Boss Core (DamageZone)",
+      "hp": 15,
+      "invulnerableAfterHit": true,
+      "invulnerabilityDuration": 3,
+      "role": "Boss Weak Point"
+    },
+    {
+      "name": "Ellen",
+      "hp": 5,
+      "invulnerableAfterHit": true,
+      "invulnerabilityDuration": 3,
+      "role": "Player Character"
+    }
+  ]
+  
