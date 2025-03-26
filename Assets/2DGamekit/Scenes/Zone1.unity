@@ -33603,6 +33603,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1822514097745251639, guid: 7fd8276358590e84d9beb52b745a2906,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822514097745251639, guid: 7fd8276358590e84d9beb52b745a2906,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822514097745251639, guid: 7fd8276358590e84d9beb52b745a2906,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822514097745251639, guid: 7fd8276358590e84d9beb52b745a2906,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -33661,10 +33676,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2691352966168446191, guid: 7fd8276358590e84d9beb52b745a2906,
+        type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6452374331113960405, guid: 7fd8276358590e84d9beb52b745a2906,
         type: 3}
       propertyPath: m_Name
       value: 'Stamina UI '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6452374331113960405, guid: 7fd8276358590e84d9beb52b745a2906,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33759,8 +33784,8 @@ SceneRoots:
   - {fileID: 1593663261}
   - {fileID: 563680753}
   - {fileID: 757866719}
-  - {fileID: 4483213928593706730}
   - {fileID: 1573827694}
+  - {fileID: 4483213928593706730}
   - {fileID: 1828732120}
   - {fileID: 520172902}
   - {fileID: 968305430}
